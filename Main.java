@@ -17,7 +17,13 @@ public class Main
     
     int[] special_cards={"14","15","16","17"};
     
+    int i=0
     
+    
+    for(i=0;i<=4;i++)
+    {
+      
+    }
     
   }
 
